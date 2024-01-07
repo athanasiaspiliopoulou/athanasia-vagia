@@ -1,4 +1,5 @@
-gender,number,number
-,All other countries,Middle East
-Female,120,75
-Male,1298,572
+gender,region,number
+Female,All other countries,120
+Female,Middle East,75
+Male,All other countries,1298
+Male,Middle East,572

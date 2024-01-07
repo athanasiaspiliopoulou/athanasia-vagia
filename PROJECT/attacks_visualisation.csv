@@ -1,36 +1,48 @@
-year,number,number
-,All other countries,Middle East
-1982,,1.0
-1992,34.0,12.0
-1993,51.0,5.0
-1994,64.0,3.0
-1995,55.0,1.0
-1996,28.0,1.0
-1997,27.0,1.0
-1998,26.0,
-1999,35.0,2.0
-2000,25.0,
-2001,49.0,1.0
-2002,21.0,3.0
-2003,27.0,27.0
-2004,36.0,40.0
-2005,28.0,28.0
-2006,27.0,50.0
-2007,44.0,47.0
-2008,31.0,14.0
-2009,77.0,10.0
-2010,42.0,11.0
-2011,42.0,15.0
-2012,39.0,45.0
-2013,33.0,55.0
-2014,53.0,43.0
-2015,46.0,36.0
-2016,25.0,38.0
-2017,54.0,28.0
-2018,85.0,31.0
-2019,51.0,16.0
-2020,64.0,18.0
-2021,107.0,11.0
-2022,116.0,87.0
-2023,18.0,46.0
-Unknown,3.0,1.0
+year,region,number
+2000.0,All other countries,25
+2001.0,All other countries,49
+2001.0,Middle East,1
+2002.0,All other countries,21
+2002.0,Middle East,3
+2003.0,All other countries,27
+2003.0,Middle East,27
+2004.0,All other countries,36
+2004.0,Middle East,40
+2005.0,All other countries,28
+2005.0,Middle East,28
+2006.0,All other countries,27
+2006.0,Middle East,50
+2007.0,All other countries,44
+2007.0,Middle East,47
+2008.0,All other countries,31
+2008.0,Middle East,14
+2009.0,All other countries,77
+2009.0,Middle East,10
+2010.0,All other countries,42
+2010.0,Middle East,11
+2011.0,All other countries,42
+2011.0,Middle East,15
+2012.0,All other countries,39
+2012.0,Middle East,45
+2013.0,All other countries,33
+2013.0,Middle East,55
+2014.0,All other countries,53
+2014.0,Middle East,43
+2015.0,All other countries,46
+2015.0,Middle East,36
+2016.0,All other countries,25
+2016.0,Middle East,38
+2017.0,All other countries,54
+2017.0,Middle East,28
+2018.0,All other countries,85
+2018.0,Middle East,31
+2019.0,All other countries,51
+2019.0,Middle East,16
+2020.0,All other countries,64
+2020.0,Middle East,18
+2021.0,All other countries,107
+2021.0,Middle East,11
+2022.0,All other countries,116
+2022.0,Middle East,87
+2023.0,All other countries,18
+2023.0,Middle East,46
